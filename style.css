@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 .global-notification {
     background-color: #1367ef;
     padding: 14px;
-   text-align: center; 
-
+    text-align: center; 
+    color: white;
 }
 /*!HEADER END */
