@@ -70,5 +70,6 @@ header {
 .header-center .navigation .menu-list {
     display: flex;
     column-gap: 30px; /*liste öğelerini birbirinden ayırıyor*/
+    align-items: center; /*dikeyde ortala*/
 }
 /*!HEADER END */
