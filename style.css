@@ -49,9 +49,19 @@ header {
     border-bottom: 1px solid #dee0ea;
 }
 
+.header-row {
+    height: 90px;
+    display: flex;
+    align-items: center; /*dikey ortala*/
+}
+
 .header-wrapper {
     display: flex; /*yanyana*/
     justify-content: space-between; /*aralarındakı boşluk*/
     align-items: center;
+}
+
+.header-center .navigation .menu-list {
+    display: flex;
 }
 /*!HEADER END */
