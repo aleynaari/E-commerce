@@ -52,5 +52,6 @@ header {
 .header-wrapper {
     display: flex; /*yanyana*/
     justify-content: space-between; /*aralarındakı boşluk*/
+    align-items: center;
 }
 /*!HEADER END */
