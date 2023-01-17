@@ -72,4 +72,10 @@ header {
     column-gap: 30px; /*liste öğelerini birbirinden ayırıyor*/
     align-items: center; /*dikeyde ortala*/
 }
+
+
+.header-center .menu-list .menu-link {
+    font-size: 14px;
+    font-weight: 500;
+}
 /*!HEADER END */
