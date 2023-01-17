@@ -78,6 +78,7 @@ header {
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase; /*büyük harfe çevirme*/
+    letter-spacing: 1.2px;
 }
 
 .header-center .menu-list .menu-link i {
