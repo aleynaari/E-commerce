@@ -114,6 +114,9 @@ header {
     height: 16px; /*arka plana renk verebilmek için*/
     background-color: #1367ef;
     position: absolute; /*eksenden çıkıyor*/
+    color: white;
+    border-radius: 100%;
+    font-size: 10px;
     top: 0;
     right: 0;
 }
