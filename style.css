@@ -106,10 +106,14 @@ header {
 }
 
 .header-right .header-cart {
-    position: relative;
+    position: relative; /*pozisyonu kafesliyor*/
 }
 
 .header-right .header-cart-link .header-cart-count {
+    width: 16px;
+    height: 16px; /*arka plana renk verebilmek için*/
     position: absolute; /*eksenden çıkıyor*/
+    top: 0;
+    right: 0;
 }
 /*!HEADER END */
