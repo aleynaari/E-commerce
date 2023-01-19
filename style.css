@@ -101,6 +101,10 @@ header {
     width: 100%;
 }
 
+.header-center .menu-list .menu-link.active::after {
+    width: 100%;
+}
+
 .header-center .menu-list .menu-link i {
     font-size: 12px;
 }
