@@ -104,4 +104,8 @@ header {
     border: none;
     background-color: transparent;
 }
+
+.header-right .header-cart-link .header-cart-count {
+    position: absolute;
+}
 /*!HEADER END */
