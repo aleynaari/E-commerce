@@ -89,8 +89,8 @@ header {
     background-color: #1367ef;
     position: absolute; /*eksenden çıkıp görünür olması için*/
     bottom: 0;
-    left: 0;
-    
+    left: 50%;  /*ortada olması için*/
+    transform: translate(-50%); /*ortada olması için*/
 }
 
 .header-center .menu-list .menu-link i {
