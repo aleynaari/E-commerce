@@ -88,5 +88,6 @@ header {
 .header-right .header-right-links {
     display: flex;
     column-gap: 16px;
+    align-items: center;
 }
 /*!HEADER END */
