@@ -84,7 +84,7 @@ header {
 
 .header-center .menu-list .menu-link::after {
     content: "";
-    width: 20px;
+    width: 0; /*hover ile 100% yapılacağı için başlangıç 0*/
     height: 1px;
     background-color: #1367ef;
     position: absolute; /*eksenden çıkıp görünür olması için*/
