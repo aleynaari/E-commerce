@@ -106,6 +106,6 @@ header {
 }
 
 .header-right .header-cart-link .header-cart-count {
-    position: absolute;
+    position: absolute; /*eksenden çıkıyor*/
 }
 /*!HEADER END */
