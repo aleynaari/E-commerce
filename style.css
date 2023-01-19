@@ -81,6 +81,15 @@ header {
     letter-spacing: 1.2px;
 }
 
+.header-center .menu-list .menu-link::after {
+    content: "";
+    width: 20px;
+    height: 1px;
+    background-color: #1367ef;
+    position: absolute; /*eksenden çıkıp görünür olması için*/
+    
+}
+
 .header-center .menu-list .menu-link i {
     font-size: 12px;
 }
