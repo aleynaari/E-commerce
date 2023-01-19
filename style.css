@@ -88,7 +88,7 @@ header {
     height: 1px;
     background-color: #1367ef;
     position: absolute; /*eksenden çıkıp görünür olması için*/
-    bottom: 0;
+    bottom: -2px;
     left: 50%;  /*ortada olması için*/
     transform: translate(-50%); /*ortada olması için*/
 }
