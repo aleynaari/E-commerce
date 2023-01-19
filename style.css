@@ -84,4 +84,9 @@ header {
 .header-center .menu-list .menu-link i {
     font-size: 12px;
 }
+
+.header-right .header-right-links {
+    display: flex;
+    column-gap: 10px;
+}
 /*!HEADER END */
