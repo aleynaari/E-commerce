@@ -105,6 +105,10 @@ header {
     background-color: transparent;
 }
 
+.header-right .header-cart {
+    position: relative;
+}
+
 .header-right .header-cart-link .header-cart-count {
     position: absolute; /*eksenden çıkıyor*/
 }
