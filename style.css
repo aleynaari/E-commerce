@@ -73,6 +73,9 @@ header {
     align-items: center; /*dikeyde ortala*/
 }
 
+.header-center .menu-link .menu-list-item {
+    display: flex; /*menulistitem menulink yükseklikleri bir ayarlama*/
+}
 
 .header-center .menu-list .menu-link {
     font-size: 14px;
