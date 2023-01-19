@@ -93,6 +93,10 @@ header {
     transform: translate(-50%); /*ortada olması için*/
 }
 
+.header-center .menu-list .menu-list-item:hover .menu-link::after {
+    width: 100%;
+}
+
 .header-center .menu-list .menu-link i {
     font-size: 12px;
 }
