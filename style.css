@@ -90,4 +90,18 @@ header {
     column-gap: 16px;
     align-items: center;
 }
+
+.header-right .bi-person {
+    font-size: 23px;
+}
+
+.header-right i{
+    font-size: 18px;
+    display: flex;
+}
+
+.header-right .toogle-button {
+    border: none;
+    background-color: transparent;
+}
 /*!HEADER END */
