@@ -79,6 +79,7 @@ header {
     font-weight: 500;
     text-transform: uppercase; /*büyük harfe çevirme*/
     letter-spacing: 1.2px;
+    position: relative; /*çizgiyi kafeslendirmek için*/
 }
 
 .header-center .menu-list .menu-link::after {
@@ -87,6 +88,8 @@ header {
     height: 1px;
     background-color: #1367ef;
     position: absolute; /*eksenden çıkıp görünür olması için*/
+    bottom: 0;
+    left: 0;
     
 }
 
